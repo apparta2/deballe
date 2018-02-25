@@ -1846,3 +1846,104 @@ body {
 .cid-qKF7GKanLh .card .panel-body {
   color: #767676;
 }
+.cid-qKF7GKanLh .panel-text {
+  color: #f7ed4a;
+}
+.cid-qKFHyHKTW0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-qKFHyHKTW0 .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-qKFHyHKTW0 .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-qKFHyHKTW0 .plan-header,
+.cid-qKFHyHKTW0 .plan-body {
+  background-color: #fff;
+}
+.cid-qKFHyHKTW0 .plan-title {
+  margin-top: 1.4rem;
+  text-align: center;
+}
+.cid-qKFHyHKTW0 .price-figure {
+  font-weight: 700;
+  color: #232323;
+  text-align: center;
+}
+@media (max-width: 550px) {
+  .cid-qKFHyHKTW0 .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-qKFHyHKTW0 .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-qKFHyHKTW0 hr {
+  margin: 2rem 0;
+}
+.cid-qKFHyHKTW0 P {
+  text-align: center;
+}
+.cid-qKFKTGjEoa {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #177396, #ca2955);
+}
+.cid-qKFKTGjEoa .list-group-item {
+  padding: .75rem 3.25rem;
+}
+.cid-qKFKTGjEoa .plan {
+  word-break: break-word;
+  position: relative;
+  max-width: 300px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-qKFKTGjEoa .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-qKFKTGjEoa .plan .list-group-item::after {
+  position: absolute;
+  bottom: 0;
+  left: 20%;
+  width: 60%;
+  height: 2px;
+  content: "";
+  background-color: #eaeaea;
+}
+.cid-qKFKTGjEoa .plan .list-group-item:last-child::after {
+  display: none;
+}
+.cid-qKFKTGjEoa .plan-header {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-qKFKTGjEoa .plan-header,
+.cid-qKFKTGjEoa .plan-body {
+  background-color: #fff;
+}
+.cid-qKFKTGjEoa .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+.cid-qKFKTGjEoa .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+@media (max-width: 550px) {
+  .cid-qKFKTGjEoa .price-figure {
+    font-size: 4.25rem;
+  }
+}
